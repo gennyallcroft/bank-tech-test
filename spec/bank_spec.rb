@@ -7,4 +7,6 @@ describe Bank do
       expect(subject.balance).to eq 0
     end
   end
+
+  
 end

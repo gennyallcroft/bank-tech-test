@@ -1,8 +1,8 @@
-#Bank Tech Test
+# Bank Tech Test
 
-##Specification
+## Specification
 
-###Requirements
+### Requirements
 
 You should be able to interact with your code via a REPL like IRB or the JavaScript console. (You don't need to implement a command line interface that takes input from STDIN.)
 
@@ -26,3 +26,4 @@ date || credit || debit || balance
 13/01/2012 || 2000.00 || || 3000.00
 10/01/2012 || 1000.00 || || 1000.00
 ```
+## Approach to the problem
