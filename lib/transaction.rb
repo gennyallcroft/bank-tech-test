@@ -8,4 +8,8 @@ class Transaction
     @credit = cash
   end
 
+  def transaction_date
+    Time.now
+  end
+
 end
